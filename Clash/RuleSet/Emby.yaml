@@ -1,0 +1,5 @@
+payload:
+  # > Emby
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN,emby.maying.club
+  - IP-CIDR,5104.238.220.90/32,no-resolve
